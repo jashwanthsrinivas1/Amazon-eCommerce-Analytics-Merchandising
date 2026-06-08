@@ -1,0 +1,14 @@
+room_size_sqft,recommended_capacity_tons,feature_preference,budget_range_inr,product_type,callout_copy,asin_slots
+Up to 100,Less than 1 Ton,Energy Saving,15000-25000,Budget 5-Star AC,Energy efficient AC for small rooms — starting at XX,3
+Up to 100,Less than 1 Ton,Auto Turn Off,15000-25000,AC with Timer,Smart cooling with auto cut-off — starting at XX,3
+Up to 100,Less than 1 Ton,Low Noise,15000-25000,Quiet Operation AC,Peaceful cooling for small spaces — starting at XX,3
+100-150,1 Ton,Energy Saving,25000-40000,5-Star 1 Ton Split,5-star inverter AC for medium rooms — starting at XX,4
+100-150,1 Ton,Smart Control,30000-45000,Wi-Fi Smart AC 1 Ton,Control from anywhere with your phone — starting at XX,3
+100-150,1 Ton,Convertible,28000-42000,Convertible 1 Ton,Flexible cooling modes — 5-in-1 convertible — starting at XX,4
+100-150,1.5 Ton,Energy Saving,30000-50000,5-Star 1.5 Ton Split,Best-in-class energy saving for medium rooms — starting at XX,4
+150-200,1.5 Ton,Energy Saving,35000-55000,5-Star 1.5 Ton Premium,Top-rated energy efficient cooling — starting at XX,4
+150-200,1.5 Ton,Hot & Cold,40000-65000,Hot & Cold 1.5 Ton,Year-round comfort — cooling and heating — starting at XX,3
+150-200,1.5 Ton,Smart Control,38000-60000,Wi-Fi Smart 1.5 Ton,App-controlled intelligent cooling — starting at XX,3
+200 and above,2 Ton,Energy Saving,50000-80000,2 Ton 5-Star Inverter,Powerful energy-efficient cooling for large rooms — starting at XX,4
+200 and above,2 Ton,Convertible,55000-85000,Convertible 2 Ton,Multi-mode 2-ton cooling for large spaces — starting at XX,3
+200 and above,2 Ton,Smart Control,60000-90000,Smart 2 Ton AC,Premium app-controlled cooling for large rooms — starting at XX,3
