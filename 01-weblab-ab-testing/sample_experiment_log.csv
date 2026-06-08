@@ -1,0 +1,8 @@
+week,period,group,gv_index,ops_index,units_index,ctr_bps,notes
+13,Mar28-Apr9,Control,100,100,100,0,Baseline period before experiment
+14,Apr10-Apr16,Control,98,99,99,-2,Week 1 of experiment - control stable
+14,Apr10-Apr16,T1_Mixed_Layout,110,100.3,100.07,18,Week 1 - T1 showing early GV lift
+15,Apr17-Apr23,Control,97,99,99,-1,Week 2 of experiment - control stable
+15,Apr17-Apr23,T1_Mixed_Layout,115,100.4,100.08,22,Week 2 - T1 GV lift sustained
+16,Apr24-Apr30,Control,100,100,100,0,Post-experiment reference week
+16,Apr24-Apr30,T1_Mixed_Layout,164,100.42,100.09,25,Final: T1 GVs +64% vs Wk15; OPS +0.42%; Units +0.09%
